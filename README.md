@@ -10,12 +10,7 @@ The system successfully detects human figures in images by:
 - Drawing bounding boxes around detected humans (green rectangles)
 - Labeling each detection with confidence scores
 - Handling different poses and scales effectively
-
-Additional detection examples:
-| Original Image | Detection Result |
-|----------------|------------------|
-| ![Input 1](assets/sliding_windows.gif) |  ![Output 1](assets/test.png) |
-
+ 
 
 ## Project Highlights
 - Feature extraction using HOG descriptors
@@ -103,9 +98,7 @@ The comprehensive project presentation covers:
 - Performance analysis and benchmarks
 - Real-world application examples
 - Future enhancements and possibilities
-
-Access the presentation here: [Human Detection Project Presentation](https://docs.google.com/presentation/d/1ebIDe_9QLxQUTOizuFgAEadjVxefgUBD/edit?usp=drive_link&ouid=102222658965169638537&rtpof=true&sd=true)
-
+ 
 ### Additional Resources
 - Sample results are available in the `assets` directory
 - Dataset examples and organization guidelines
